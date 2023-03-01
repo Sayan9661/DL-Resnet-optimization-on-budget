@@ -2,10 +2,10 @@
 
 test_models contains some of the models we tried:
 
-1.only l2 regularization
-2.only data tranform/augmentation
-3.Both the above
-4.picture showing some of the models we tried.
+1.only l2 regularization<br>
+2.only data tranform/augmentation<br>
+3.Both the above<br>
+4.picture showing some of the models we tried.<br>
 
 The rest of this repository contains the final model which has only 2.63 million parameters and can achieve up to 91.12% accuracy. What we did was:
 1. Use Adam Optimizer
