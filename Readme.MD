@@ -1,5 +1,7 @@
 # ResNet Optimzation within parameter budget
+
 test_models contains some of the models we tried:
+
 1.only l2 regularization
 2.only data tranform/augmentation
 3.Both the above
